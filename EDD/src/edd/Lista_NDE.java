@@ -1,4 +1,5 @@
 package edd;
+//hola
 public class Lista_NDE {
     Nododoble primero;
     Nododoble ultimo;
