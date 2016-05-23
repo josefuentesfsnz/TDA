@@ -2,6 +2,7 @@ package edd;
 
 public class Recursividad
 {
+    
     public void contar(int desde, int hasta){
         System.out.println(desde);
         if (desde != hasta) {
@@ -28,7 +29,8 @@ public class Recursividad
         }
     }
     
-    public void Insertar_recursivo(){
+    public void Insertar_recursivo()
+    {
         
     }
 }

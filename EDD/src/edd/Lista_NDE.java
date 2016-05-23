@@ -165,4 +165,8 @@ public class Lista_NDE {
         
         
     }
+    void insertRecursivo(Nododoble n)
+    {
+        
+    }
 }
